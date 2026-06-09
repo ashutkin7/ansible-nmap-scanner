@@ -20,7 +20,7 @@ Ansible-плейбук для автоматической установки Nm
 ansible-playbook playbook.yml -i inventory.ini --check --diff
 ```
 
-**Продуктовый запуск:**
+**Запуск:**
 ```bash
 ansible-playbook playbook.yml -i inventory.ini
 ```
