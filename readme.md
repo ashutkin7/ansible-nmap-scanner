@@ -25,4 +25,5 @@ ansible-playbook playbook.yml -i inventory.ini --check --diff
 ansible-playbook playbook.yml -i inventory.ini
 ```
 
-*Результаты выполнения и логи записываются в файл `ansible.log`.*
+[Посмотреть логи работы Ansible](./ansible.log)
+
